@@ -49,7 +49,7 @@ Citizen.CreateThread(function()
             if Armour <= 0 then       --Check if the kevlar Broke
                 Notify(BproofBroke)   --Notify  
                 local Ped = GetPlayerPed(source)
-                RemoveeBproof()       --Dellette the Kevlar
+                RemoveeBproof()       --Del the Kevlar
                 GotArmour = false     --Say my ped don't got kevlar
                 TriggerEvent("Homer:Ragdol", source, 50000)  --Ragdoll the guy
             end
