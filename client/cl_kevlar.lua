@@ -128,5 +128,3 @@ print("________________$$$$$$$___________ ")
 print("__________________$$$_____________ ")
 print("___________________$______________")
 print("           Script By Px1101")
-
-print("My Own DEV discord = discord.gg/tXK5uu")
