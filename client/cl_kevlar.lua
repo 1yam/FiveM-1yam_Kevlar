@@ -7,7 +7,7 @@ local Register = false
 --EN
 --BproofBroke="You'r Bullet proff Broke !!"
 --Fr
-BproofBroke="Votre Gilet par balle vient de casser !!"
+BproofBroke = "Votre Gilet par balle vient de casser !!"
 
 
 ------------------My sssssssssssssssssssssssssssssssssssssssssssssssssss
